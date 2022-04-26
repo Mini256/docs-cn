@@ -110,7 +110,7 @@ DROP VIEW book_with_ratings;
 ## 扩展阅读
 
 - [视图](/views.md)
-- [CREATE VIEW 语句](/sql-statement-create-view.md)
-- [DROP VIEW 语句](/sql-statement-drop-view.md)
+- [CREATE VIEW 语句](/sql-statements/sql-statement-create-view.md)
+- [DROP VIEW 语句](/sql-statements/sql-statement-drop-view.md)
 - [用 EXPLAIN 查看带视图的 SQL 执行计划](/explain-views.md)
 - [TiFlink: 使用 TiKV 和 Flink 实现强一致的物化视图](https://github.com/tiflink/tiflink)
